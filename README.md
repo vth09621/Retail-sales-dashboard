@@ -1,6 +1,5 @@
-# Retail-sales-dashboard
+# Retail-sales
 Interactive Retail Sales Dashboard built using Tableau, SQL and Excel.
-# Retail Sales Dashboard
 
 ## Project Overview
 
